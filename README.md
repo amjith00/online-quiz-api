@@ -1,8 +1,6 @@
-# online-quiz-api
-Spring Boot REST API for online quiz management with multiple question types and automatic scoring
-
 # Online Quiz Application API
-A Spring Boot REST API for managing and taking online quizzes with multiple question types.
+*Spring Boot REST API for online quiz management with multiple question types and automatic scoring
+  For managing and taking online quizzes with multiple question types.
 
 # Features
 * Create quizzes and add questions
@@ -15,7 +13,7 @@ A Spring Boot REST API for managing and taking online quizzes with multiple ques
 * Java 17
 * Spring Boot 3.x
 * Spring Data JPA
- *  H2 Database (Embedded)
+*  H2 Database (Embedded)
 * Maven
 
 # Quick Start
